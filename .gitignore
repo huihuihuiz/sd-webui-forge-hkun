@@ -68,7 +68,7 @@ coverage.xml
 /localizations/zh_CN.json
 
 # Embedded large models
-/modules/models/
+# /modules/models/
 
 # Cache directories
 /.cache/
